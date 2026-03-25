@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Buy item from shop \\
 public class java01{
     public static void main (String[] args){
 
