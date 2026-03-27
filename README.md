@@ -33,7 +33,7 @@ A utility to convert weight between kilograms and pounds.
     ```
 
 2.  **Execute the program:**
-    ```bash
+    ```bash :
     java java01
     # or
     java java02
