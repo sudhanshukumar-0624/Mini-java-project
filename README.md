@@ -14,6 +14,11 @@ A program to calculate the final amount after applying compound interest.
 - **Features:** Input principal, rate, time compounded per year, and years. Uses the compound interest formula.
 - **Concepts:** `Math.pow()`, `Scanner`, and financial calculation logic.
 
+### ⚖️ 3. Weight Conversion Program (`java03.java`)
+A utility to convert weight between kilograms and pounds.
+- **Features:** Supports two-way conversion (kg to lbs and lbs to kg).
+- **Concepts:** `Scanner`, conditional logic, and arithmetic operations.
+
 ---
 
 ## 🛠️ How to Run
@@ -23,6 +28,8 @@ A program to calculate the final amount after applying compound interest.
     javac java01.java
     # or
     javac java02.java
+    # or
+    javac java03.java
     ```
 
 2.  **Execute the program:**
@@ -30,6 +37,8 @@ A program to calculate the final amount after applying compound interest.
     java java01
     # or
     java java02
+    # or
+    java java03
     ```
 
 ## 📜 Repository Overview
