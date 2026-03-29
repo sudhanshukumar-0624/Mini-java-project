@@ -2,7 +2,7 @@
 
 Welcome to the collection of mini Java projects! This repository contains various Java programs designed to demonstrate core programming concepts through practical examples.
 
-## 📋 Featured Projects
+## 📋 Featured Projects :
 
 ### 🛍️ 1. Shop Item Purchase Calculator (`java01.java`)
 A simple utility to calculate the total cost of items purchased.
