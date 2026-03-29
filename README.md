@@ -19,6 +19,16 @@ A utility to convert weight between kilograms and pounds.
 - **Features:** Supports two-way conversion (kg to lbs and lbs to kg).
 - **Concepts:** `Scanner`, conditional logic, and arithmetic operations.
 
+### 🌡️ 4. Temperature Conversion (`java04.java`)
+A utility to convert temperature between Celsius and Fahrenheit.
+- **Features:** Takes input temperature and unit (C or F), and outputs the conversion result.
+- **Concepts:** `Scanner`, conditional logic (ternary operator), and formatted output.
+
+### 🧮 5. Simple Calculator (`java05.java`)
+A versatile calculator that performs basic arithmetic operations.
+- **Features:** Supports addition, subtraction, multiplication, division, and exponentiation. Includes zero-division handling!
+- **Concepts:** `Scanner`, `switch` statements (using new Java switch arrows), and arithmetic logic.
+
 ---
 
 ## 🛠️ How to Run
@@ -30,6 +40,10 @@ A utility to convert weight between kilograms and pounds.
     javac java02.java
     # or
     javac java03.java
+    # or
+    javac java04.java
+    # or
+    javac java05.java
     ```
 
 2.  **Execute the program:**
@@ -39,6 +53,10 @@ A utility to convert weight between kilograms and pounds.
     java java02
     # or
     java java03
+    # or
+    java java04
+    # or
+    java java05
     ```
 
 ## 📜 Repository Overview
