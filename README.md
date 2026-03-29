@@ -47,7 +47,7 @@ A versatile calculator that performs basic arithmetic operations.
     ```
 
 2.  **Execute the program:**
-    ```bash
+    ```bash :
     java java01
     # or
     java java02
