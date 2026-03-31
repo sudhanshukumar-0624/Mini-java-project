@@ -29,6 +29,17 @@ A versatile calculator that performs basic arithmetic operations.
 - **Features:** Supports addition, subtraction, multiplication, division, and exponentiation. Includes zero-division handling!
 - **Concepts:** `Scanner`, `switch` statements (using new Java switch arrows), and arithmetic logic.
 
+### 👤 6. User Name Validator (`java06.java`)
+A program that validates usernames based on length and character constraints.
+- **Features:** Checks if the name is between 4 and 12 characters and ensures no spaces or underscores are used.
+- **Concepts:** `String` methods (`length`, `contains`), conditional logic, and input validation.
+
+### 🎲 7. Guess the Number Game (`java07.java`)
+A fun interactive game where the user guesses a randomly generated number.
+- **Features:** Generates a random number between a specified range and tracks the number of attempts.
+- **Concepts:** `Random` class, `do-while` loops, and comparison logic.
+ 
+
 ---
 
 ## 🛠️ How to Run
@@ -44,6 +55,10 @@ A versatile calculator that performs basic arithmetic operations.
     javac java04.java
     # or
     javac java05.java
+     # or
+    javac java06.java
+    # or
+    javac java07.java
     ```
 
 2.  **Execute the program:**
@@ -57,10 +72,14 @@ A versatile calculator that performs basic arithmetic operations.
     java java04
     # or
     java java05
+    # or
+    java java06
+    # or
+    java java07
     ```
 
 ## 📜 Repository Overview
-This repository currently contains multiple Java snippets (java01 to java14) that explore different aspects of the Java programming language. More projects are added regularly!
+This repository currently contains multiple Java snippets (java01 to java07) that explore different aspects of the Java programming language. More projects are added regularly!
 
 ---
 *Created with ❤️ by Sudhanshu Kumar*
