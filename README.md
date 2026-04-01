@@ -39,7 +39,15 @@ A fun interactive game where the user guesses a randomly generated number.
 - **Features:** Generates a random number between a specified range and tracks the number of attempts.
 - **Concepts:** `Random` class, `do-while` loops, and comparison logic.
  
+### 🔳 8. Nested Loops Practice (`java08.java`)
+A visual demonstration of nested loops for pattern printing.
+- **Features:** Customizable rows, columns, and symbols for building grid patterns with delay effects.
+- **Concepts:** Nested `for` loops, `Thread.sleep()`, and `Scanner`.
 
+### 🏦 9. Banking Program (`java09.java`)
+A feature-rich terminal application for basic banking transactions.
+- **Features:** Options to show balance, deposit funds, and withdraw money with built-in validation.
+- **Concepts:** `Scanner`, `switch` statements, method modularization, and basic financial logic.
 ---
 
 ## 🛠️ How to Run
@@ -59,6 +67,10 @@ A fun interactive game where the user guesses a randomly generated number.
     javac java06.java
     # or
     javac java07.java
+     # or
+    java java08
+    # or
+    java java09
     ```
 
 2.  **Execute the program:**
@@ -76,6 +88,10 @@ A fun interactive game where the user guesses a randomly generated number.
     java java06
     # or
     java java07
+     # or
+    java java08
+    # or
+    java java09
     ```
 
 ## 📜 Repository Overview
