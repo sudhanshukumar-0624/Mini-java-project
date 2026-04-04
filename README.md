@@ -38,7 +38,7 @@ A program that validates usernames based on length and character constraints.
 A fun interactive game where the user guesses a randomly generated number.
 - **Features:** Generates a random number between a specified range and tracks the number of attempts.
 - **Concepts:** `Random` class, `do-while` loops, and comparison logic.
- 
+
 ### 🔳 8. Nested Loops Practice (`java08.java`)
 A visual demonstration of nested loops for pattern printing.
 - **Features:** Customizable rows, columns, and symbols for building grid patterns with delay effects.
@@ -48,6 +48,17 @@ A visual demonstration of nested loops for pattern printing.
 A feature-rich terminal application for basic banking transactions.
 - **Features:** Options to show balance, deposit funds, and withdraw money with built-in validation.
 - **Concepts:** `Scanner`, `switch` statements, method modularization, and basic financial logic.
+
+### 📅 10. Date and Time Info (`java10.java`)
+A program that displays current date and time information.
+- **Features:** Uses modern Java Date/Time API.
+- **Concepts:** `java.time` package, `LocalDateTime`, `DateTimeFormatter`.
+
+### 📧 11. Simple Email Validator (`java11.java`)
+A regex-based email validation utility.
+- **Features:** Validates email format using regular expressions.
+- **Concepts:** `java.util.regex`, `Pattern`, `Matcher`.
+
 ---
 
 ## 🛠️ How to Run
@@ -63,39 +74,31 @@ A feature-rich terminal application for basic banking transactions.
     javac java04.java
     # or
     javac java05.java
-     # or
+    # or
     javac java06.java
     # or
     javac java07.java
-     # or
-    java java08
     # or
-    java java09
+    javac java08.java
+    # or
+    javac java09.java
+    # or
+    javac java10.java
+    # or
+    javac java11.java
     ```
 
 2.  **Execute the program:**
-    ```bash :
+    ```bash
     java java01
     # or
     java java02
-    # or
-    java java03
-    # or
-    java java04
-    # or
-    java java05
-    # or
-    java java06
-    # or
-    java java07
-     # or
-    java java08
-    # or
-    java java09
+    # ... and so on
+    java java11
     ```
 
 ## 📜 Repository Overview
-This repository currently contains multiple Java snippets (java01 to java07) that explore different aspects of the Java programming language. More projects are added regularly!
+This repository currently contains multiple Java snippets (java01 to java11) that explore different aspects of the Java programming language. More projects are added regularly!
 
 ---
 *Created with ❤️ by Sudhanshu Kumar*
