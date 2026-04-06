@@ -59,6 +59,16 @@ A regex-based email validation utility.
 - **Features:** Validates email format using regular expressions.
 - **Concepts:** `java.util.regex`, `Pattern`, `Matcher`.
 
+### 🧠 12. Maths Quiz Game (`java12.java`)
+A simple quiz program that tests your math skills.
+- **Features:** Multiple-choice questions, timed display, and score tracking.
+- **Concepts:** Arrays, loops, `Scanner`, and `Thread.sleep()`.
+
+### ✂️ 13. Rock, Paper, Scissors Game (`java13.java`)
+A classic interactive game played against the computer.
+- **Features:** Random computer choices, win/loss/tie logic, and replay option.
+- **Concepts:** `Random` class, `do-while` loops, and string comparison.
+  
 ---
 
 ## 🛠️ How to Run
@@ -86,6 +96,10 @@ A regex-based email validation utility.
     javac java10.java
     # or
     javac java11.java
+     # or
+    javac java12.java
+    # or
+    javac java13.java
     ```
 
 2.  **Execute the program:**
@@ -94,11 +108,11 @@ A regex-based email validation utility.
     # or
     java java02
     # ... and so on
-    java java11
+    java java13
     ```
 
 ## 📜 Repository Overview
-This repository currently contains multiple Java snippets (java01 to java11) that explore different aspects of the Java programming language. More projects are added regularly!
+This repository currently contains multiple Java snippets (java01 to java13) that explore different aspects of the Java programming language. More projects are added regularly!
 
 ---
 *Created with ❤️ by Sudhanshu Kumar*
