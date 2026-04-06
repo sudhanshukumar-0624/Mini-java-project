@@ -1,4 +1,4 @@
-# Mini Java Projects 🚀
+# Mini Java Projects : 🚀
 
 Welcome to the collection of mini Java projects! This repository contains various Java programs designed to demonstrate core programming concepts through practical examples.
 
