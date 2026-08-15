@@ -4,15 +4,7 @@ Welcome to the collection of mini Java projects! This repository contains variou
 
 ## 📋 Featured Projects :
 
-### 🛍️ 1. Shop Item Purchase Calculator (`java01.java`).
-A simple utility to calculate the total cost of items purchased.
-- **Features:** Takes item name, price, and quantity as input. Outputs the final total amount.
-- **Concepts:** `Scanner` class, basic arithmetic, and formatted output.
 
-### 💰 2. Compound Interest Calculator (`java02.java`).
-A program to calculate the final amount after applying compound interest.
-- **Features:** Input principal, rate, time compounded per year, and years. Uses the compound interest formula.
-- **Concepts:** `Math.pow()`, `Scanner`, and financial calculation logic.
 
 ### ⚖️ 3. Weight Conversion Program (`java03.java`).
 A utility to convert weight between kilograms and pounds.
