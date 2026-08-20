@@ -54,7 +54,20 @@ A program that displays current date and time information.
 - **Features:** Uses modern Java Date/Time API.
 - **Concepts:** `java.time` package, `LocalDateTime`, `DateTimeFormatter`.
 
+### 📧 11. Simple Email Validator (`java11.java`).
+A regex-based email validation utility.
+- **Features:** Validates email format using regular expressions.
+- **Concepts:** `java.util.regex`, `Pattern`, `Matcher`.
 
+### 🧠 12. Maths Quiz Game (`java12.java`).
+A simple quiz program that tests your math skills.
+- **Features:** Multiple-choice questions, timed display, and score tracking.
+- **Concepts:** Arrays, loops, `Scanner`, and `Thread.sleep()`.
+
+### ✂️ 13. Rock, Paper, Scissors Game (`java13.java`).
+A classic interactive game played against the computer.
+- **Features:** Random computer choices, win/loss/tie logic, and replay option.
+- **Concepts:** `Random` class, `do-while` loops, and string comparison.
   
 ---
 
