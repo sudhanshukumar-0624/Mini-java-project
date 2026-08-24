@@ -24,6 +24,15 @@ A utility to convert temperature between Celsius and Fahrenheit.
 - **Features:** Takes input temperature and unit (C or F), and outputs the conversion result.
 - **Concepts:** `Scanner`, conditional logic (ternary operator), and formatted output.
 
+### 🧮 5. Simple Calculator (`java05.java`).
+A versatile calculator that performs basic arithmetic operations.
+- **Features:** Supports addition, subtraction, multiplication, division, and exponentiation. Includes zero-division handling!
+- **Concepts:** `Scanner`, `switch` statements (using new Java switch arrows), and arithmetic logic.
+
+### 👤 6. User Name Validator (`java06.java`).
+A program that validates usernames based on length and character constraints.
+- **Features:** Checks if the name is between 4 and 12 characters and ensures no spaces or underscores are used.
+- **Concepts:** `String` methods (`length`, `contains`), conditional logic, and input validation.
 
 ### 🎲 7. Guess the Number Game (`java07.java`).
 A fun interactive game where the user guesses a randomly generated number.
