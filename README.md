@@ -71,7 +71,7 @@ A classic interactive game played against the computer.
   
 ---
 
-## 🛠️ How to Run
+## 🛠️ How to Run :
 
 1.  **Compile the code:**
     ```bash
